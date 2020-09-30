@@ -1,3 +1,3 @@
 # MIPS-Arrays
-Simple array in MIPS Assembly
+Simple array in MIPS Assembly.
 Sorting , Load ...
